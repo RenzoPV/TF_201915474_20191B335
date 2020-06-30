@@ -1,0 +1,38 @@
+﻿  MyForm.cpp
+c:\users\paris\downloads\tf - algoritmos\project26\avlbst.h(7): warning C4005: 'max': redefinición de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(193): note: vea la definición anterior de 'max'
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(95): warning C4244: 'argumento': conversión de 'wchar_t' a 'R'; posible pérdida de datos
+          with
+          [
+              R=char
+          ]
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(98): warning C4244: 'argumento': conversión de 'double' a 'R'; posible pérdida de datos
+          with
+          [
+              R=float
+          ]
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(110): warning C4244: 'argumento': conversión de 'wchar_t' a 'R'; posible pérdida de datos
+          with
+          [
+              R=char
+          ]
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(113): warning C4244: 'argumento': conversión de 'double' a 'R'; posible pérdida de datos
+          with
+          [
+              R=float
+          ]
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(125): warning C4244: 'argumento': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(140): warning C4244: 'argumento': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\tabla.h(47): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\tabla.h(60): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\tabla.h(61): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\myform1.h(457): warning C4244: 'argumento': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\myform1.h(461): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\myform1.h(497): warning C4244: 'argumento': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\myform1.h(501): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(33): warning C4715: '<lambda_b42e551399026d94310961eb08fd0683>::operator()': no todas las rutas de acceso de control devuelven un valor
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(27): warning C4715: '<lambda_5ef6cbaeb3e5b4da2d015c3d50c202aa>::operator()': no todas las rutas de acceso de control devuelven un valor
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(21): warning C4715: '<lambda_50db8711ea6c4a055517647b5ccfdec9>::operator()': no todas las rutas de acceso de control devuelven un valor
+c:\users\paris\downloads\tf - algoritmos\project26\columna.h(15): warning C4715: '<lambda_a92aacdf25538301b0eb877b707fdf6d>::operator()': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project26.vcxproj -> C:\Users\PARIS\Downloads\TF - Algoritmos\x64\Debug\Project26.exe
